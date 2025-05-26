@@ -1,0 +1,6 @@
+here is the full tech stacks are present in the file 
+- python
+-cpp
+-node express 
+-android studio
+-react 
